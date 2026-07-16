@@ -50,6 +50,7 @@ change-point-analysis/
 
 │
 ├── notebooks/
+|   ├── brent.ipynb
 │   ├── report.ipynb
 │
 ├── backend/
